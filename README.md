@@ -50,8 +50,3 @@ Finally, we use **PivotTable** to analyze the data:
 
 2. **Total Sales by Representatives by Month**:  
    ![Pivot Table - Reps](https://github.com/user-attachments/assets/716b3223-7e91-4da8-92d5-2c7b0dd37a38)
-
----
-
-## Conclusion
-This project demonstrates the use of Excel for data analysis, showcasing various features like formulas and PivotTables to derive meaningful insights from raw data.
